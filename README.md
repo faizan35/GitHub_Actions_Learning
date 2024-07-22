@@ -8,20 +8,20 @@
 - Use Cases
 - Pricing and Limits
 
-#### 1.2 Understanding Workflows
+#### [1.2 Understanding Workflows](./01-Module/1.2-Understanding-Workflows.md)
 
 - Workflow Basics
 - YAML Syntax
 - Workflow Files and Configuration
 
-#### 1.3 Key Concepts
+#### [1.3 Key Concepts](./01-Module/1.3-Key-Concepts.md)
 
 - Jobs
 - Steps
 - Actions
 - Runners
 
-#### **Project 1:** Create a Simple CI Workflow
+#### [**Project 1:** Create a Simple CI Workflow](./01-Module/1.4-Project-1.md)
 
 - Set up a repository
 - Create a basic workflow to run on push events
