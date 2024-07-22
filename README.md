@@ -29,24 +29,24 @@
 
 ## Module 2: Core Concepts and Syntax
 
-#### 2.1 Events
+#### [2.1 Events](./02-Module/2.1-Events.md)
 
 - Types of Events (push, pull_request, schedule, etc.)
 - Event Triggers
 
-#### 2.2 Jobs and Steps
+#### [2.2 Jobs and Steps](./02-Module/2.2-Jobs-Steps.md)
 
 - Defining Jobs
 - Running Steps Sequentially
 - Using Shell Scripts in Steps
 
-#### 2.3 Actions
+#### [2.3 Actions](./02-Module/2.3-Actions.md)
 
 - Types of Actions (Docker, JavaScript, Composite)
 - Using Actions from the Marketplace
 - Creating Custom Actions
 
-#### **Project 2:** Multi-Job Workflow
+#### [**Project 2:** Multi-Job Workflow](./02-Module/2.4-Project-2.md)
 
 - Create a workflow with multiple jobs running in parallel
 - Use different types of actions in each job
