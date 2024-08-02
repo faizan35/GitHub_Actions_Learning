@@ -34,13 +34,16 @@
 - Types of Events (push, pull_request, schedule, etc.)
 - Event Triggers
 
-#### [2.2 Jobs and Steps](./02-Module/2.2-Jobs-Steps.md)
+#### [2.2 Jobs](./02-Module/2.2-Jobs-Steps.md)
 
 - Defining Jobs
+
+#### [2.3 Steps](./02-Module/2.3-Steps.md)
+
 - Running Steps Sequentially
 - Using Shell Scripts in Steps
 
-#### [2.3 Actions](./02-Module/2.3-Actions.md)
+#### [2.4 Actions](./02-Module/2.4-Actions.md)
 
 - Types of Actions (Docker, JavaScript, Composite)
 - Using Actions from the Marketplace
@@ -54,12 +57,12 @@
 
 ## Module 3: Advanced Workflow Features
 
-#### 3.1 Matrix Builds
+#### [3.1 Matrix Builds](./03-Module/3.1-Matrix-Builds.md)
 
 - Matrix Strategy Basics
 - Dynamic Matrix Configurations
 
-#### 3.2 Caching and Artifacts
+#### [3.2 Caching and Artifacts](./03-Module/3.2-Caching-Artifacts.md)
 
 - Using Caches for Dependencies
 - Storing and Retrieving Artifacts
@@ -173,3 +176,5 @@
 - Design and implement a comprehensive CI/CD pipeline for a multi-service application
 - Use advanced features like matrix builds, custom actions, and multi-repo workflows
 - Ensure security, compliance, and scalability throughout the pipeline
+
+---
